@@ -1,0 +1,16 @@
+[
+  {
+    "img_head":"src/assets/images/head.png",
+    "title":"我叫小梦",
+    "des":"大家好，我叫小梦，很高兴认识你们。",
+    "photo":"照片",
+    "photo_num":"1",
+    "photo_img":"src/assets/images/img_girl2.jpg",
+    "gz":"关注",
+    "gz_num":132,
+    "fans":"粉丝",
+    "fans_num":160,
+    "id":1
+  }
+]
+

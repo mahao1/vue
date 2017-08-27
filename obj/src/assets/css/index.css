@@ -1,0 +1,57 @@
+
+
+/*nav*/
+.nav {
+    display: flex;
+    height: 2rem;
+    margin-top: 2.5rem;
+    background: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.nav ul{
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav ul li a{
+    font-size: .8rem;
+    color: #666;
+}
+.nav ul li:hover a{
+    color:#08c63e;
+    border-bottom:5px #08c63e solid;
+}
+.green a{
+    color:#08c63e;
+    border-bottom:5px #08c63e solid;
+}
+
+/*section*/
+.section{
+    display: flex;
+    flex: 1;
+    padding-top: 0.29rem;
+    margin-top: 4.5rem;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    overflow: auto;
+    justify-content: space-around;
+    margin-bottom: 2.5rem;
+}
+.section .figure{
+    width:8rem;
+    border:1px #e5e5e5 solid;
+    font-size:.69rem;
+    margin-bottom:.29rem;
+}
+.section .figure img {
+    width:100%;
+}
+.section .figure figcaption{
+    padding: 0.2rem 0.57rem;
+}

@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+* {margin:0; padding:0; box-sizing:border-box;}
+ul li {list-style:none;}
+html,body {height:100%;}
+
+html {font-size:20px;}
+@media only screen and (min-width:401px){
+    html {font-size:25px!important; }
+}
+@media only screen and (min-width:428px){
+    html {font-size:26.75px!important; }
+}
+@media only screen and (min-width:481px){
+    html {font-size:30px!important; }
+}
+@media only screen and (min-width:569px){
+    html {font-size:35px!important; }
+}
+@media only screen and (min-width:641px){
+    html {font-size:40px!important; }
+}
+
+body{display:flex; flex-direction: column; background: #f1f1f1;}
+
+/*header*/
+header{
+    height: 2.5rem;
+    background: #0cc440;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+header a{
+    text-decoration: none;
+}
+header a .iconfont{
+    color: #fff;
+    font-size: 1rem;
+    position: absolute;
+    left: 1rem;
+    top: 0.75rem;
+}
+header p{
+    color: #fff;
+    font-size: 1rem;
+}
+
+/*section*/
+section{
+    display: flex;
+    flex: 1;
+    width:100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow: auto;
+    background: #fff;
+}
+.section_t{
+    width:100%;
+    padding: .86rem;
+}
+.section_t p{
+    width:100%;
+    line-height: 2.5rem;
+    border-bottom: 1px solid #999;
+    color: #999;
+    font-size: .8rem;
+}
+.section_t p input{
+    height: 1.2rem;
+    border: none;
+}
+
+.btn{
+    width: 100%;
+    height: 2.5rem;
+    background: #0cc440;
+    color: #fff;
+    text-align: center;
+    line-height: 2.5rem;
+    border:none;
+    border-radius: .2rem;
+    font-size: 1rem;
+    margin-top:2rem;
+}
+
+

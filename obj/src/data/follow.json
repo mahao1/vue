@@ -1,0 +1,21 @@
+[
+  {
+    "img_head":"src/assets/images/head.png",
+    "title":"我叫小梦",
+    "des":"我叫小梦萌萌哒",
+    "zan":132,
+    "img":"src/assets/images/img_girl2.jpg",
+    "char":"大家好，我叫小梦",
+    "id":1
+  },
+  {
+    "img_head":"src/assets/images/head.png",
+    "title":"我叫小悠",
+    "des":"我叫小悠萌萌哒",
+    "zan":267,
+    "img":"src/assets/images/img_girl4.jpg",
+    "char":"大家好，我叫小悠",
+    "id":2
+  }
+]
+

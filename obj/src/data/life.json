@@ -1,0 +1,43 @@
+[
+  {
+    "img":"src/assets/images/img_life1.jpg",
+    "title":"足球生活",
+    "id":1
+  },
+  {
+    "img":"src/assets/images/img_life2.jpg",
+    "title":"足球生活",
+    "id":2
+  },
+  {
+    "img":"src/assets/images/img_life3.jpg",
+    "title":"足球生活",
+    "id":3
+  },
+  {
+    "img":"src/assets/images/img_life4.jpg",
+    "title":"足球生活",
+    "id":4
+  },
+  {
+    "img":"src/assets/images/img_life5.jpg",
+    "title":"足球生活",
+    "id":5
+  },
+  {
+    "img":"src/assets/images/img_life6.jpg",
+    "title":"足球生活",
+    "id":6
+  },
+  {
+    "img":"src/assets/images/img_life7.jpg",
+    "title":"足球生活",
+    "id":7
+  },
+  {
+    "img":"src/assets/images/img_life8.jpg",
+    "title":"足球生活",
+    "id":8
+  }
+]
+
